@@ -1,0 +1,50 @@
+/* Type your code here */
+
+
+.head{
+	background-color: red;
+	text-decoration-color: white;
+}
+.logo{
+	margin-left:1000px;
+}
+.shewag{
+	color:blue;
+}
+.sachin{
+	color:blue;
+}
+.virat{
+	color:blue;
+}
+.msd{
+	color:blue;
+}
+.yuvi{
+	color:blue;
+}
+.coming{
+	color:blue;
+	}
+	.scorecard{
+		background-color: white;
+	}.gambhir
+	{
+		color: blue;
+	}
+	
+
+}
+/* change the font family and spacing as per your project font */
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 750px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
